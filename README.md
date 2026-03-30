@@ -1,16 +1,35 @@
-## Hi there 👋
+# 🔐 PortSwigger Web Security Academy — Lab Writeups
 
-<!--
-**Mrdj30/Mrdj30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> by [Mrdj30](https://github.com/Mrdj30) · Hands-on security research using Burp Suite
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Topics
+
+| # | Topic | Labs | Link |
+|---|-------|------|------|
+| 1 | 🔴 Web Cache Deception | 4 labs | [web-cache-deception/](./web-cache-deception/) |
+| 2 | 🟠 WebSockets Vulnerabilities | 3 labs | [websockets/](./websockets/) |
+| 3 | 🟡 Authentication Vulnerabilities | 6 labs | [authentication/](./authentication/) |
+
+> 🔄 More topics coming soon: SSRF, SQL Injection, XSS, CSRF...
+
+---
+
+## 🛠️ Tools Used
+
+- **Burp Suite** (Proxy, Repeater, Intruder, Collaborator)
+- **Browser** (Firefox / Chrome)
+- **PortSwigger Exploit Server**
+
+---
+
+## 🧭 How to Navigate
+
+Each topic has its own folder. Inside every topic folder:
+- A `README.md` explaining the topic
+- Subfolders for each lab with a step-by-step solution
+
+---
+
+*⭐ Star this repo if you find it useful!*
